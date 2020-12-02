@@ -10,7 +10,7 @@ import givenEnvironment.GivenEnvironment;
 import graphicalElements.FroggerGraphic;
 import graphicalElements.IFroggerGraphics;
 
-public class Main {
+public class Main          {
 
 	public static void main(String[] args) {
 
