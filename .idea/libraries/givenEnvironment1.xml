@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="givenEnvironment1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProjetIPO-Final-master/Partie 2/lib/givenEnvironment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
